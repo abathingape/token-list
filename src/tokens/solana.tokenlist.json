@@ -56,6 +56,18 @@
     },
     {
       "chainId": 101,
+      "address": "5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE",
+      "symbol": "AAPE",
+      "name": "Ape Together Strong",
+      "decimals": 9,
+      "logoURI": "img1.wsimg.com/isteam/ip/ac88400a-6ecd-495e-9b00-85af2c7c985a/EvUlhIDUcAA7Yb9.jpg",
+      "tags": [],
+      "extensions": {
+        "website": "https://aape.io/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
